@@ -1,0 +1,15 @@
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\bin\Debug\net6.0\Zadacha4.exe
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\bin\Debug\net6.0\Zadacha4.deps.json
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\bin\Debug\net6.0\Zadacha4.runtimeconfig.json
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\bin\Debug\net6.0\Zadacha4.dll
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\bin\Debug\net6.0\Zadacha4.pdb
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.csproj.AssemblyReference.cache
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.AssemblyInfoInputs.cache
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.AssemblyInfo.cs
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.dll
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\refint\Zadacha4.dll
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.pdb
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\Zadacha4.genruntimeconfig.cache
+C:\Users\HPuser\Documents\GeekBrains\Семинары\Домашка\Zadacha2\Zadacha4\obj\Debug\net6.0\ref\Zadacha4.dll
